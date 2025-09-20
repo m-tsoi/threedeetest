@@ -14,9 +14,9 @@ Quick test of Three.js and its basic functions
 - Basic Animations
 
 ## Installation & Running
-bash
-npm install
-npm run dev
+- bash
+- npm install
+- npm run dev
 
 ## Tutorials & Resources
 - "Three.js Tutorial for Absolute Beginners" by Wael Yasmina (YouTube)  
